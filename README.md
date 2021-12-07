@@ -1,0 +1,2 @@
+# Morse-Code-Project----Data-Structures-Project-3
+Use the aforementioned algorithm to construct a Morse Binary Search Tree based  on the existing Morse Binary Tree.   Use a recursive function (pre, in, or post Order) to traverse the newly constructed  BST in search of Chars passed in via Strings (Char[]). This will give you the specified  location in the Binary Sequence of the BST.  Use the aforementioned location in the Binary Sequence to print out the appropriate Morse Sequence for the Strings passed in by the user. 
